@@ -1,6 +1,5 @@
 /*
-  backbone.paginator
-  http://github.com/surikoya/presenation
+  http://github.com/surikoya/presentation
 
   Copyright (c) 2015 Suresh Koya<sbabu@vmtechllc.com>
   Licensed under the MIT license.
